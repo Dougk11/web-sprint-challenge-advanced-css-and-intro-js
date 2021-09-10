@@ -23,10 +23,21 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+Accessibility on the web is designing websites to be accessible to people with certain disabilities. For example, helping people who are visually impaired. To do so, you can make font sizes bigger depending on the user. 
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+You can use semantic html, so that your code is well structured and organized. This would allow a reader to go through your website and easily describe it to someone without vision. For color blind individuals, you could create icons for different states of your website instead of just changing colors. Third, you could also use 'rem' so those who have difficulty reading can enlarge the font size in their browser and your website will have larger sized text etc. based on this change.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+Variables are ways to store certain values so you can call upon that value repeatedly or later on. For example, you may want to store a customer's name so that you can refer to it in different parts of your website. Imagine you have a customer on your retail website - you wouldn't want to have to ask for their details each step of your website or each time they visit it. Variables allow you to re-use and store that information so you could potentially only ask once.
+
 4. What is the purpose of using functions in code?
+Functions allow you to be more efficient and scale your code. Instead of repeatedly performing the same lines of code, you can invoke a function so that each time you need to execute a repeating pattern, you can just invoke the code instead of repeating the same thing over and over.
+
 5. How do you access a key inside of an object inside of an array?
+You can access a key inside of an object that is inside of an array by using dot or bracket notation. For example, array[i].name will return the name key of an object of the i-th index of the array.
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
